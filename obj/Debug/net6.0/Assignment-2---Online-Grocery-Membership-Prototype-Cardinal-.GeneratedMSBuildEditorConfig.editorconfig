@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Alpha\Desktop\s\SSD\Assignment-2---Online-Grocery-Membership-Prototype-Cardinal-
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Alpha/Desktop/s/SSD/Assignment-2---Online-Grocery-Membership-Prototype-Cardinal-/Pages/DriverHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHJpdmVySG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alpha/Desktop/s/SSD/Assignment-2---Online-Grocery-Membership-Prototype-Cardinal-/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -29,6 +33,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Alpha/Desktop/s/SSD/Assignment-2---Online-Grocery-Membership-Prototype-Cardinal-/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alpha/Desktop/s/SSD/Assignment-2---Online-Grocery-Membership-Prototype-Cardinal-/Pages/ShopperHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBlckhvbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alpha/Desktop/s/SSD/Assignment-2---Online-Grocery-Membership-Prototype-Cardinal-/Pages/_ViewImports.cshtml]
