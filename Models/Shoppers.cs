@@ -5,7 +5,7 @@ using System;
     //this is a model of the Shoppers
       public class shoppers
       {
-        public int ShopperID {get; set;}// This is the "primary key"
+        public int ShoppersID {get; set;}// This is the "primary key"
         public int PersonsID {get; set;}
         public int AddressID {get; set;}
       }

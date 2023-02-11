@@ -5,7 +5,7 @@ using System;
     //this is a model of the MenuOrders
       public class menuOrders
       {
-        public int MenuOrderID {get; set;}// This is the "primary key"
+        public int MenuOrdersID {get; set;}// This is the "primary key"
         public int OrderID {get; set;}
         public int MenuItemID {get; set;}
         public int Quantity {get; set;}

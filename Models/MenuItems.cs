@@ -5,7 +5,7 @@ using System;
     //this is a model of the MenuItems
       public class menuItems
       {
-        public int MenuItemID {get; set;}// This is the "primary key"
+        public int MenuItemsID {get; set;}// This is the "primary key"
         public int RestaurantsID {get; set;}
         public string Name {get; set;} = string.Empty;
         public string Description {get; set;} = string.Empty;
