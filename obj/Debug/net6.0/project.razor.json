@@ -18409,6 +18409,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Alpha\\Desktop\\s\\SSD\\Assignment-2---Online-Grocery-Membership-Prototype-Cardinal-\\Pages\\RestaurantHome.cshtml",
+      "TargetPath": "Pages\\RestaurantHome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Alpha\\Desktop\\s\\SSD\\Assignment-2---Online-Grocery-Membership-Prototype-Cardinal-\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
